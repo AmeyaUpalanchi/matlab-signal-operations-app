@@ -8,7 +8,6 @@
   * [Built With](#built-with)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
 
 
