@@ -1,4 +1,4 @@
-  Signal Operations In Matlab App
+ # Signal Operations In Matlab App
 
 
 <!-- TABLE OF CONTENTS -->
@@ -13,7 +13,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project#
 
 Signal Operations are simply modifications to the time variable of the signal to generate new signals. These are pretty similar to the mathematical graphical tranformations from our good old Calculus text.
 
