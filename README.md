@@ -1,4 +1,4 @@
-  <h1  text-align = 'center>Signal Operations In Matlab App</h1>
+  Signal Operations In Matlab App
 
 
 <!-- TABLE OF CONTENTS -->
